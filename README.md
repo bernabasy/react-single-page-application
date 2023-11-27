@@ -35,7 +35,7 @@ Clone the repository using the GitHub link provided below.
 
 In the terminal, go to your file directory and run this command.
 ```
-$ git clone this repo
+$ git clone https://github.com/bernabasy/react-single-page-application.git
 ```
 ### Usage
 
